@@ -1,0 +1,8 @@
+2023-08-22 14:40:43,550:INFO:features.utilities.test_logging:Selected product identifier: B0C2HVX9W9
+2023-08-22 14:40:55,311:INFO:features.utilities.test_logging:The product is already in the cart.
+2023-08-22 14:40:55,357:DEBUG:features.utilities.test_logging:current_quantity:1
+2023-08-22 14:40:55,358:INFO:features.utilities.test_logging:The product quantity is already 1. Skipping adding to cart.
+2023-08-22 14:40:56,013:INFO:features.utilities.test_logging:[]
+2023-08-22 14:41:01,719:INFO:features.utilities.test_logging:proceed to checkout was clicked
+2023-08-22 14:41:04,800:DEBUG:features.utilities.test_logging:Expected Checkout-Checkout
+2023-08-22 14:41:04,802:DEBUG:features.utilities.test_logging:Actual text Checkout
