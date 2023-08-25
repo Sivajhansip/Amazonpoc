@@ -11,8 +11,7 @@ from features.login_page.web_elements import WebElements
 from features.utilities.test_logging import test_log
 
 logger = test_log()
-logger.info("added extra line-1")
-logger.info("added extra line-2")
+
 
 
 @given('I am on the Amazon website')
