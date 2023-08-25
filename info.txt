@@ -1,0 +1,18 @@
+A)This project intends to have three test cases
+1.Verify amazon login.Read user credentials from excel file
+2.Verify selection of required product
+3.Verify adding required product to the cart
+4.Verify proceed to checkout
+
+
+
+B)On test failure or successful assertion test would be enough to capture the screenshot of page.
+C)After test suite execution generate allure report
+
+TODO
+1.Generate report on every execution.Report folder will generate with appending date and time
+2.Maintain a screenshot folder inside "reports" with date and time
+3.Execute suite with cumulative behave and allure command to ensure execution and report generation at once.
+4.Test break-up as per point-A.
+5.Maintain product selection dynamic.(Select the product as user want dynamically)
+6.Project should be capable to handle multiple browsers.
