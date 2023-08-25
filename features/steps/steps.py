@@ -13,7 +13,6 @@ from features.utilities.test_logging import test_log
 logger = test_log()
 
 
-
 @given('I am on the Amazon website')
 def step_given_open_amazon_site(context):
     context.driver.implicitly_wait(10)

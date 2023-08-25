@@ -3,8 +3,8 @@ import os
 
 
 def test_log():
-    if os.path.exists('logger.log'):
-        os.remove('logger.log')
+    # if os.path.exists('logger.log'):
+    # os.remove('logger.log')
     logger = logging.getLogger(__name__)
     fileHandler = logging.FileHandler('logger.log')
     logFormat = logging.Formatter("%(asctime)s:%(levelname)s:%(name)s:%(message)s")
