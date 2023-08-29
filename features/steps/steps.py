@@ -28,6 +28,7 @@ def step_given_open_amazon_site(context):
         excel.write_data("Verify Amazon User Login", "failed")
     assert check == url_check.text, "invalid homepage"
     context.driver.refresh()
+    logger.info("hi")
 
 
 @when('I log in with my Amazon credentials read from excel_file')

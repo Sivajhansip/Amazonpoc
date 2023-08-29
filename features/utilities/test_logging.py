@@ -1,5 +1,7 @@
 import logging
-import os
+from features.steps.config import Environment
+
+log_level = Environment.LOG_LEVEL1
 
 
 def test_log():
@@ -10,10 +12,10 @@ def test_log():
     logFormat = logging.Formatter("%(asctime)s:%(levelname)s:%(name)s:%(message)s")
     fileHandler.setFormatter(logFormat)
     logger.addHandler(fileHandler)  # in which file we need to add this
-    logger.setLevel(logging.DEBUG)
+    logger.setLevel(logging.getLevelName(log_level))
     # stream handler for console logging
     consoleHandler = logging.StreamHandler()
     consoleHandler.setFormatter(logFormat)
     logger.addHandler(consoleHandler)
-    logger.setLevel(logging.DEBUG)
+    logger.setLevel(logging.getLevelName(log_level))
     return logger
