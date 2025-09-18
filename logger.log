@@ -1,0 +1,56 @@
+2023-08-25 10:42:49,875:INFO:features.utilities.test_logging:added extra line-1
+2023-08-25 10:42:49,875:INFO:features.utilities.test_logging:added extra line-2
+2023-08-25 10:43:17,069:INFO:features.utilities.test_logging:Selected product identifier: B0C918JGBM
+2023-08-25 10:43:29,427:INFO:features.utilities.test_logging:product doesn't match
+2023-08-25 10:43:29,656:INFO:features.utilities.test_logging:Stored product identifier:B0C918JGBM
+2023-08-25 10:43:29,704:DEBUG:features.utilities.test_logging:initial cart count:1
+2023-08-25 10:43:33,501:INFO:features.utilities.test_logging:Add to Cart button text:Add to Shopping Cart
+2023-08-25 10:43:33,525:INFO:features.utilities.test_logging:Add to Cart button is enabled:True
+2023-08-25 10:43:38,416:INFO:features.utilities.test_logging:updated cart count:2
+2023-08-25 10:43:38,416:INFO:features.utilities.test_logging:Product added to cart successfully.
+2023-08-25 10:43:39,049:INFO:features.utilities.test_logging:['B0C2HVX9W9']
+2023-08-25 10:43:39,298:INFO:features.utilities.test_logging:Removed product:B0C2HVX9W9
+2023-08-25 10:43:46,433:INFO:features.utilities.test_logging:proceed to checkout was clicked
+2023-08-25 10:43:49,536:DEBUG:features.utilities.test_logging:Expected Checkout-Checkout
+2023-08-25 10:43:49,536:DEBUG:features.utilities.test_logging:Actual text Checkout
+2023-08-25 16:22:48,212:INFO:features.utilities.test_logging:Selected product identifier: B0C2HVX9W9
+2023-08-25 16:22:57,482:INFO:features.utilities.test_logging:product doesn't match
+2023-08-25 16:22:57,723:INFO:features.utilities.test_logging:Stored product identifier:B0C2HVX9W9
+2023-08-25 16:22:57,783:DEBUG:features.utilities.test_logging:initial cart count:1
+2023-08-25 16:23:00,369:INFO:features.utilities.test_logging:Add to Cart button text:Add to Shopping Cart
+2023-08-25 16:23:00,389:INFO:features.utilities.test_logging:Add to Cart button is enabled:True
+2023-08-25 16:23:05,242:INFO:features.utilities.test_logging:updated cart count:2
+2023-08-25 16:23:05,243:INFO:features.utilities.test_logging:Product added to cart successfully.
+2023-08-25 16:23:05,755:INFO:features.utilities.test_logging:['B0C918JGBM']
+2023-08-25 16:23:06,016:INFO:features.utilities.test_logging:Removed product:B0C918JGBM
+2023-08-25 16:23:12,773:INFO:features.utilities.test_logging:proceed to checkout was clicked
+2023-08-25 16:23:15,655:DEBUG:features.utilities.test_logging:Expected Checkout-Checkout
+2023-08-25 16:23:15,656:DEBUG:features.utilities.test_logging:Actual text Checkout
+2023-08-28 16:42:30,256:INFO:features.utilities.test_logging:Selected product identifier: B0C4ZHK5W1
+2023-08-28 16:42:42,751:INFO:features.utilities.test_logging:product doesn't match
+2023-08-28 16:42:42,970:INFO:features.utilities.test_logging:Stored product identifier:B0C4ZHK5W1
+2023-08-28 16:42:43,056:DEBUG:features.utilities.test_logging:initial cart count:1
+2023-08-28 16:42:45,434:INFO:features.utilities.test_logging:Add to Cart button text:Add to Shopping Cart
+2023-08-28 16:42:45,463:INFO:features.utilities.test_logging:Add to Cart button is enabled:True
+2023-08-28 16:42:49,699:INFO:features.utilities.test_logging:updated cart count:2
+2023-08-28 16:42:49,700:INFO:features.utilities.test_logging:Product added to cart successfully.
+2023-08-28 16:42:50,183:INFO:features.utilities.test_logging:['B0C2HVX9W9']
+2023-08-28 16:42:50,426:INFO:features.utilities.test_logging:Removed product:B0C2HVX9W9
+2023-08-28 16:42:57,193:INFO:features.utilities.test_logging:proceed to checkout was clicked
+2023-08-28 16:43:00,191:DEBUG:features.utilities.test_logging:Expected Checkout-Checkout
+2023-08-28 16:43:00,192:DEBUG:features.utilities.test_logging:Actual text Checkout
+2023-08-29 16:24:49,859:INFO:features.utilities.test_logging:hi
+2023-08-29 16:25:59,016:INFO:features.utilities.test_logging:hi
+2023-08-29 16:26:19,128:INFO:features.utilities.test_logging:Selected product identifier: B0B46CJ21J
+2023-08-29 16:26:27,769:INFO:features.utilities.test_logging:product doesn't match
+2023-08-29 16:26:27,953:INFO:features.utilities.test_logging:Stored product identifier:B0B46CJ21J
+2023-08-29 16:26:28,009:DEBUG:features.utilities.test_logging:initial cart count:1
+2023-08-29 16:26:32,582:INFO:features.utilities.test_logging:Add to Cart button text:Add to Shopping Cart
+2023-08-29 16:26:32,614:INFO:features.utilities.test_logging:Add to Cart button is enabled:True
+2023-08-29 16:26:36,575:INFO:features.utilities.test_logging:updated cart count:2
+2023-08-29 16:26:36,575:INFO:features.utilities.test_logging:Product added to cart successfully.
+2023-08-29 16:26:37,061:INFO:features.utilities.test_logging:['B0C4ZHK5W1']
+2023-08-29 16:26:37,293:INFO:features.utilities.test_logging:Removed product:B0C4ZHK5W1
+2023-08-29 16:26:43,355:INFO:features.utilities.test_logging:proceed to checkout was clicked
+2023-08-29 16:26:46,188:DEBUG:features.utilities.test_logging:Expected Checkout-Checkout
+2023-08-29 16:26:46,188:DEBUG:features.utilities.test_logging:Actual text Checkout

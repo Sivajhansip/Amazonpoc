@@ -4,6 +4,8 @@ import allure
 from features.drivers.driver_setup import *
 from features.steps.config import Environment
 
+from Amazonpoc.features.drivers.driver_setup import get_chrome_driver, get_edge_driver, get_firefox_driver
+
 
 def before_all(context):
     if Environment.BROWSER == "Chrome":
